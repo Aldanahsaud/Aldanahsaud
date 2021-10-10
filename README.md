@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aldanah Aldohayan
 - 👀 I’m interested in productivity 
-- 🌱 I’m currently learning Swift
+- 💻  I’m currently learning Swift
 - 💞️ I’m looking forward to collaborate in many projects 
 <!---
 - 📫 How to reach me -> Aldanah.Saud.ruh.s@tuwaiq.edu.sa
