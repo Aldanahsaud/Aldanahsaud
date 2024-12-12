@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aldanah Aldohayan
 - 👀 I’m interested in productivity 
-- 💻  I’m currently learning Swift
+- 💻  iOS Development
 - 💞️ I’m looking forward to collaborate in many projects 
 - 📫 How to reach me -> danahaldohayan@gmail.com and LinkedIn
 <!---
